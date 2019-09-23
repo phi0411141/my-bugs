@@ -11,3 +11,6 @@
         extensions: ["[extensionName]/scriptName.js"]<br>
       }<br>
     });
+
+# mathjax initial typeset
+ Mathjax will typeset all page when initial, pass skipStartupTypeset: false to config to disable it
