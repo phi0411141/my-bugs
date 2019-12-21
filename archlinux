@@ -1,0 +1,2 @@
+#Ibus reference key change from commandline
+gsettings set org.freedesktop.ibus.general.hotkey triggers "['<Alt>Shift_L']"
