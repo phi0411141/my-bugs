@@ -23,8 +23,8 @@
     6. Chạy hệ thống bằng lệnh: "python Server.py"
   
   ### Phần 2: Hệ thống back-end
-  *Yêu cầu: [Nodejs 10.0 trở lên](https://nodejs.org/en/download/)
-            Hệ thống ở phần 1 
+  *Yêu cầu: [Nodejs 10.0 trở lên](https://nodejs.org/en/download/)  
+            Hệ thống ở phần 1  
             [Hệ cơ sở dữ liệu Postgresql](https://www.postgresql.org/download/) (Cần lưu ý nếu hệ cơ sở dữ liệu đã có mật                 khẩu cho người dùng postgresql, cần sửa lại câu thông tin trong src/configs.js, phần DB_PASSWORD thành mật khẩu đã              có).*
   ###### I. Windows + Linux
     1. Tải redis: https://redislabs.com/ebook/appendix-a/a-3-installing-on-windows/a-3-2-installing-redis-on-window/ đối với Windows và sudo apt-get install redis-server đối với Linux.
