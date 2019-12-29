@@ -12,7 +12,7 @@
       - "nltk.download('stopwords')"
   5. Chạy hệ thống bằng lệnh: "python Server.py"
  
- II. Linux (Ubuntu)
+ ###### II. Linux (Ubuntu)
   1. Gõ "python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose"
   3. Tải các gói cần thiết, gõ: "pip install flask flask_restful flask_cors nltk sklearn"
   4. Sử dụng các thư viện: Mở terminal ở thư mục pythonServer, gõ "python"
