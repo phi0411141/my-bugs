@@ -88,3 +88,10 @@
       "ignoreTestFiles": "*.ts"
     }
   ```
+  5. `package.json`
+  ```json
+    "cypress-cucumber-preprocessor": {
+      "nonGlobalStepDefinitions": true,
+      "stepDefinitions": "test/cypress/integration"
+    }
+  ```
